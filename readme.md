@@ -102,11 +102,14 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+<div margin="15" >
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashsinha2603&show_icons=true&locale=en&layout=compact" alt="vikash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashsinha2603&show_icons=true&locale=en" alt="vikash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsinha2603&" alt="vikash" /></p>
+</div>
 
 <br/>
 
