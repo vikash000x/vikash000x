@@ -54,7 +54,7 @@
  <a href="https://www.instagram.com/__vikash__sinha/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="vikash" />
  </a> 
-  <a href="https://www.leetcode.com/vikash_sinha" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="vikash" height="60" width="150" /></a>
+  <a href="https://www.leetcode.com/vikash_sinha" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="vikash" height="40" width="150" /></a>
 </p>
 <br />
 
