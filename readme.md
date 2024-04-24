@@ -104,11 +104,11 @@
 
 
 <div margin="15" >
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashsinha2603&show_icons=true&locale=en&layout=compact" alt="vikash" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash000x&show_icons=true&locale=en&layout=compact" alt="vikash" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikashsinha2603&show_icons=true&locale=en" alt="vikash" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash000x&show_icons=true&locale=en" alt="vikash" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashsinha2603&" alt="vikash" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash000x&" alt="vikash" /></p>
 </div>
 
 <br/>
