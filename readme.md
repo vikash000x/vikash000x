@@ -77,7 +77,7 @@
 
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
-  <a href="https://leetcode.com/yadav621gzp" target="_blank">
+  <a href="https://leetcode.com/vikash000x" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=yadav621gzp&theme=dark&extension=activity&border_radius=10"/>
   </a>
 </p>
