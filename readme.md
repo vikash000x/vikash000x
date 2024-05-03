@@ -75,6 +75,13 @@
 <br/>
 <br/>
 
+<h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/yadav621gzp" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=yadav621gzp&theme=dark&extension=activity&border_radius=10"/>
+  </a>
+</p>
+
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
