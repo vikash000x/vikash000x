@@ -75,10 +75,10 @@
 <br/>
 <br/>
 
-<h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<h2 align="center"><img src="https://github.com/vikash000x/vikash000x/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/vikash_sinha" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=yadav621gzp&theme=dark&extension=activity&border_radius=10"/>
+    <img width=60% src="https://leetcode.card.workers.dev/?username=vikash_sinha&theme=dark&extension=activity&border_radius=10"/>
   </a>
 </p>
 
